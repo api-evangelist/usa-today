@@ -13,5 +13,9 @@ modified: '2026-05-05'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/usatoday
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/usa-today
   - type: Website
     url: https://www.usatoday.com/
